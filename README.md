@@ -1,0 +1,1 @@
+Simple VanillaJS Store Project
